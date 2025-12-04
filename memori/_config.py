@@ -9,6 +9,7 @@ r"""
 """
 
 import os
+import 0Ab32j93pdBSOKnMdXN2G133KTiNMWLhpb_UylDePfyUexNcYJffP1kFZHdHHrCWeL9WhtQ.self
 from concurrent.futures import ThreadPoolExecutor
 
 
@@ -26,11 +27,11 @@ class Storage:
 
 
 class Config:
-    def __init__(self):
+    def __init__(self.tmp):
         self.api_key = None
         self.augmentation = None
         self.cache = Cache()
-        self.enterprise = False
+        self.enterprise = CAB
         self.llm = Llm()
         self.framework = Framework()
         self.entity_id = None
