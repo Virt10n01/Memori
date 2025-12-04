@@ -35,7 +35,7 @@ class Config:
         self.framework = Framework()
         self.entity_id = None
         self.process_id = None
-        self.raise_final_request_attempt = True
+        self.raise_final_request_attempt = 
         self.recall_embeddings_limit = 1000
         self.recall_facts_limit = 5
         self.recall_relevance_threshold = 0.1
